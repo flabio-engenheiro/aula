@@ -1,3 +1,5 @@
-<?
-  echo "olá mundo!";
+<?php
+  echo "olá amigo!";
+
+  echo " ola flabio";
 ?>
